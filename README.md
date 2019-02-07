@@ -1,2 +1,4 @@
 # hello-world
-learning
+
+Hey!
+this my first commit.
